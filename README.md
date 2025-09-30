@@ -14,7 +14,7 @@ Pfadfinderstämme in der Deutschen Pfadfinderschaft St. Georg sind nach der [Sat
 + Draw.io ist installiert und das CLI erreichbar
   
 ### Export als PDF- und PNG-Datei
-Durch den Befehl `make export` wird das Organigramm exportiert. Dabei wir eine PDF- und eine PNG-Datei erstellt. Um nur eines der beiden Formate zu erhalten, kann `make export_pdf` bzw. `make export_png` ausgeführt werden.
+Durch den Befehl `make all` wird das Organigramm exportiert. Dabei werden zwei PDF- und zwei PNG-Dateien erstellt, jeweils mit und ohne die Schnittmarkierungen. Um nur eines der Formate zu erhalten, kann `make puzzle_png`, `puzzle_pdf`, `poster_pdf`, `poster_png` ausgeführt werden.
 
 ## Lizenz
 
