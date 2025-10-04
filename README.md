@@ -6,7 +6,7 @@ Pfadfinderstämme in der Deutschen Pfadfinderschaft St. Georg sind nach der [Sat
 
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
-![Der DPSG-Stamm als Organigramm](organigramm_stammesebene.png)
+![Der DPSG-Stamm als Organigramm](out/stammes-gremien-poster.png)
 
 ## Diagramm exportieren
 
